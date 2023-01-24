@@ -1,3 +1,7 @@
+**Attention**
+
+This code has been merged to the main branch of [TensCalc](https://github.com/hespanha/tenscalc) and will no longer be mantained.
+
 # MinmaxNewton
 
 The code in this repository implements the algorithm and numerical examples from our paper [Newton and interior-point methods for (constrained) nonconvex-nonconcave minmax optimization with stability guarantees](https://arxiv.org/abs/2205.08038).
